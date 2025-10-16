@@ -10,3 +10,6 @@ Ejercicio de JAVA que utiliza el comando grep
 
 ## USO
 Para ejecutar el programa usaremos el RunJava del Visual Studio Code
+
+https://github.com/alex12345-123/practicaGrep
+S
