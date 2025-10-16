@@ -9,10 +9,10 @@ public class grep {
     
     public static final String texto ="""
             Me gusta PSP y java
-                PSP se programa en java 
-                es un módulo de DAM
-                y se programa de forma concurrente en PSP 
-                PSP es programación
+            PSP se programa en java 
+            es un módulo de DAM
+            y se programa de forma concurrente en PSP 
+            PSP es programación
             """;
     public static void main(String[] args) throws  IOException{
         Process p = Runtime.getRuntime().exec("grep PSP");
